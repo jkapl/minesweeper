@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-boilerplate",
+  "name": "Minesweeper",
   "version": "1.0.0",
-  "description": "Boilerplate React and Redux app setup",
+  "description": "Minesweeper with React and Redux",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkapl/react-redux-boilerplate.git"
+    "url": "git+https://github.com/jkapl/minesweeper.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jkapl/react-redux-boilerplate/issues"
+    "url": "https://github.com/jkapl/minesweeper/issues"
   },
-  "homepage": "https://github.com/jkapl/react-redux-boilerplate#readme",
+  "homepage": "https://github.com/jkapl/minesweeper#readme",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
