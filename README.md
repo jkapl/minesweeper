@@ -1,2 +1,2 @@
-# react-redux-boilerplate
-Boilerplate React and Redux app setup
+# Minesweeper
+Minesweeper built with React and Redux
